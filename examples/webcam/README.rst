@@ -40,3 +40,7 @@ Credits
 -------
 
 The original idea for the example was from Marios Balamatsias.
+
+## Notes
+1. `sudo apt install libavdevice-dev libavfilter-dev libopus-dev libvpx-dev pkg-config libsrtp2-dev`
+2. 
